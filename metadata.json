@@ -1,0 +1,14 @@
+{
+  "name": "ThemeCV AI",
+  "description": "An intelligent career platform that transforms potential into opportunities through AI-powered CV building, job matching, and career coaching.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI-Powered CV Builder",
+    "Job Discovery with SerpAPI",
+    "Career Copilot AI",
+    "Portfolio Visual Generation"
+  ]
+}
